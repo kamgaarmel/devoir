@@ -1,0 +1,54 @@
+.premiere{
+   background-color: hsl(31, 77%, 52%);
+   Font-size: 15px;
+   color: white;
+   padding-top: 20px;
+   height: 250px;
+   width: 250px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-family: [Lexend Deca];
+   font-weight: 400px;
+
+
+}
+
+
+.deuxieme{
+    Font-size: 15px;
+    background-color: hsl(184, 100%, 22%);
+    color: white;
+   padding-top: 20px;
+   height: 250px;
+   width: 250px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-family: [Lexend Deca];
+   font-weight: 400px;
+
+
+}
+
+
+.troisieme{
+    background-color: hsl(179, 100%, 13%);
+    Font-size: 15px;
+    color: white;
+   padding-top: 20px;
+   height: 250px;
+   width: 200px;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-family: [Lexend Deca];
+   font-weight: 400px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    border-radius: 10px;
+}
